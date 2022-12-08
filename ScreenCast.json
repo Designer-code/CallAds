@@ -10,14 +10,14 @@
 	 "InterAdsAc2": "admob",
 	 "InterAdsAc3": "max",
 		
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "BannerAdmob": "ca-app-pub-6044032961852562/2928662112",
+        "InterAdmob": "ca-app-pub-6044032961852562/2737090427",
+        "NativeAdmob": "ca-app-pub-6044032961852562/5171682071",
 	      
-	    "FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
-        "FanInter": "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
-        "FanNative": "IMG_16_9_APP_INSTALL#825738315329934_825743048662794",
-	    "NativeFacebookSingle": "IMG_16_9_APP_INSTALL#825738315329934_826124475291318",
+	    "FanBanner": "",
+            "FanInter": "",
+            "FanNative": "",
+	    "NativeFacebookSingle": "",
 		
 		"MaxInter" : "4df2121217cb3b1a",
 		"MaxNative" : "d09fb264ceebc6c5",
