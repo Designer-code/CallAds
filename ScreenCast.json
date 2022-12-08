@@ -4,7 +4,7 @@
       {
 		  
         "BannerAd": "admob",
-        "NativeAd": "admob",
+        "NativeAd": "facebook",
 		
 	 "InterAdsAc1": "max",
 	 "InterAdsAc2": "admob",
