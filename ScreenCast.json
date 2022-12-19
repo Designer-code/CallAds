@@ -3,16 +3,16 @@
     "AdsController": 
       {
 		  
-        "BannerAd": "admob",
+        "BannerAd": "max",
         "NativeAd": "max",
 		
 	 "InterAdsAc1": "max",
-	 "InterAdsAc2": "admob",
-	 "InterAdsAc3": "admob",
+	 "InterAdsAc2": "max",
+	 "InterAdsAc3": "max",
 		
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "BannerAdmob": "ca-app-pub-6044032961852562/9247787756",
+        "InterAdmob": "ca-app-pub-6044032961852562/3282775512",
+        "NativeAdmob": "ca-app-pub-6044032961852562/9656612171",
 	      
 	"FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
         "FanInter": "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
