@@ -3,13 +3,13 @@
 		
         "show_ads": true,
 		
-        "bannerAd": "max",
-        "InterAd": "max",
-        "NativeAd": "max",
+        "bannerAd": "facebook",
+        "InterAd": "admob",
+        "NativeAd": "facebook",
 		
-        "admob_banner": "ca-app-pub-6044032961852562/5376933302",
-        "admob_inter": "ca-app-pub-6044032961852562/7545051205",
-        "admob_native": "ca-app-pub-6044032961852562/2559198271",
+        "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+        "admob_native": "ca-app-pub-3940256099942544/2247696110",
 		
         "facebook_banner": "IMG_16_9_APP_INSTALL#6081906371842532_6081908348509001",
         "facebook_inter": "IMG_16_9_APP_INSTALL#6081906371842532_6081908768508959",
