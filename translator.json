@@ -4,10 +4,10 @@
       {
 		  
         "BannerAd": "facebook",
-        "NativeAd": "max",
+        "NativeAd": "facebook",
 		
 	 "InterAdsAc1": "max",
-	 "InterAdsAc2": "max",
+	 "InterAdsAc2": "facebook",
 	 "InterAdsAc3": "max",
 		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
