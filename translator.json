@@ -3,21 +3,20 @@
     "AdsController": 
       {
 		  
-        "BannerAd": "max",
+        "BannerAd": "facebook",
         "NativeAd": "max",
 		
 	 "InterAdsAc1": "max",
-	 "InterAdsAc2": "max",
+	 "InterAdsAc2": "facebook",
 	 "InterAdsAc3": "max",
 		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 	      
-	"FanBanner": "IMG_16_9_LINK#825738315329934_825742901996142",
-        "FanInter": "IMG_16_9_LINK#825738315329934_825742971996135",
-        "FanNative": "IMG_16_9_LINK#825738315329934_825743048662794",
-	"NativeFacebookSingle": "IMG_16_9_LINK#825738315329934_826124475291318",
+	"FanBanner": "1200136590915459_1200137580915360",
+        "FanInter":  "1200136590915459_1200139230915195",
+        "FanNative": "1200136590915459_1200139427581842",
 		
 		"MaxBanner" : "68a43a371a080f50",
 		"MaxInter" : "e5dfc89280025419",
