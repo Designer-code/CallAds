@@ -6,17 +6,17 @@
 			"InterstitialAd": "admob",
 			"NativeAd": "max",
 
-			"BannerAdsAc1": "admob",
-			"BannerAdsAc2": "max",
+			"BannerAdsAc1": "facebook",
+			"BannerAdsAc2": "facebook",
 			"BannerAdsAc3": "facebook",
 
-			"InterAdsAc0": "admob",
+			"InterAdsAc0": "max",
 			"InterAdsAc1": "facebook",
 			"InterAdsAc2": "admob",
 			"InterAdsAc3": "facebook",
 
 			"NativeAdsAc1": "admob",
-			"NativeAdsAc2": "facebook",
+			"NativeAdsAc2": "admob",
 			"NativeAdsAc3": "admob",
 			"NativeAdsAc4": "max",
 			"NativeAdsAc5": "facebook",
