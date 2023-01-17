@@ -3,25 +3,25 @@
     "AdsController": 
       {
 		  
-        "BannerAd": "facebook",
+        "BannerAd": "max",
         "InterstitialAd": "max",
-        "NativeAd": "facebook",
+        "NativeAd": "max",
 		
-        "BannerAdmob": "ca-app-pub-7554491450630658/7625460147",
-        "InterAdmob": "ca-app-pub-7554491450630658/3494643440",
-        "NativeAdmob": "ca-app-pub-7554491450630658/8307986423",
+        "BannerAdmob": "",
+        "InterAdmob": "",
+        "NativeAdmob": "",
 	      
-	"FanBanner": "1922458281458450_1922459018125043",
-        "FanInter": "1922458281458450_1922459498124995",
-        "FanNative": "1922458281458450_1922459784791633",
+	"FanBanner": "",
+        "FanInter": "",
+        "FanNative": "",
 		
 		"MaxBanner" : "",
 		"MaxInter" : "d6b3fc52b03130cb",
 		"MaxNative" : "3af39a3467e3cce0",
 		
-        "Cpa": false,
+        "Cpa": true,
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
-        "LinkCpa" : "https://cpabuild.com/"
+        "LinkCpa" : "https://netflix-free-accounts.netlify.app"
 		
 	
       }	  
