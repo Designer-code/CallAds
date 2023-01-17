@@ -3,20 +3,20 @@
     "AdsController": 
       {
 		  
-        "BannerAd": "admob",
-        "NativeAd": "admob",
+        "BannerAd": "max",
+        "NativeAd": "max",
 		
 	 "InterAdsAc1": "max",
-	 "InterAdsAc2": "admob",
+	 "InterAdsAc2": "max",
 	 "InterAdsAc3": "max",
 		
-        "BannerAdmob": "ca-app-pub-7554491450630658/4817148181",
-        "InterAdmob": "ca-app-pub-7554491450630658/2469066885",
-        "NativeAdmob": "ca-app-pub-7554491450630658/3120923136",
+        "BannerAdmob": "",
+        "InterAdmob": "",
+        "NativeAdmob": "",
 	      
-	"FanBanner": "1200136590915459_1200137580915360",
-        "FanInter":  "1200136590915459_1200139230915195",
-        "FanNative": "1200136590915459_1200139427581842",
+	"FanBanner": "",
+        "FanInter":  "",
+        "FanNative": "",
 		
 		"MaxBanner" : "68a43a371a080f50",
 		"MaxInter" : "e5dfc89280025419",
